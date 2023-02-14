@@ -4,6 +4,7 @@ public class AdditionInstance {
 	int a;
 	int b;
 	
+	
 	AdditionInstance(int a,int b){
 		this.a=a;
 		this.b=b;	
