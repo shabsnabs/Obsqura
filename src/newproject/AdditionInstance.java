@@ -19,7 +19,7 @@ public class AdditionInstance {
 	public int get_result() {
 
 		int c =a+b;
-		//System.out.println("Result is   " + c);
+		System.out.println("Result is   " + c);
 		return c;
 
 	}
