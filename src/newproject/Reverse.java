@@ -2,7 +2,7 @@ package newproject;
 
 public class Reverse {
 	public static void main(String[] args) {
-		String s = "Obsqura Technologies";
+		String s = "Obsqura Technologies is a good place to learn";
 		String reverse = "           ";
 
 		// Iterate through the string from last and add each character to variable
